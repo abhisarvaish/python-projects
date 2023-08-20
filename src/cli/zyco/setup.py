@@ -17,9 +17,3 @@ setuptools.setup(
       ],
     }
 )
-
-# setup(
-#     entry_points = {
-#         'console_scripts': ['zyco=funniest.command_line:main'],
-#     }
-# )
