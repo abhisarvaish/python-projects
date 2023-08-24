@@ -3,7 +3,7 @@ Pilot Repository to Learn to make things Easy.
 
 ## Getting started
 
-This Repository Showcase some Utilities Created by me to Make Daily Life tings Easier.
+This Repository Showcase some Utilities Created by me to Make Daily Life things Easier.
 
 
 ## Project Basic (src/cli/basic)
